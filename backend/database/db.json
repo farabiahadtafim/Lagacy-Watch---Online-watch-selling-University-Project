@@ -1,0 +1,2154 @@
+{
+  "users": [
+    {
+      "id": 1777115644646,
+      "name": "Admin",
+      "email": "admin@legacywatches.com",
+      "password_hash": "$2a$10$mYsuaFG9nhu9mPNL33NZgurf8we3qZHAumuycWaNNNE4g7WG4y5Ze",
+      "role": "admin"
+    },
+    {
+      "id": 1781525503680,
+      "name": "Baized",
+      "email": "Baized@gmail.com",
+      "password_hash": null,
+      "phone": "demo_google_id",
+      "google_id": null,
+      "role": "admin",
+      "created_at": "2026-06-15T12:11:43.681Z"
+    },
+    {
+      "id": 1781771178392,
+      "name": "Google User",
+      "email": "user1781771178318@gmail.com",
+      "password_hash": null,
+      "phone": "demo_google_id",
+      "google_id": null,
+      "role": "user",
+      "created_at": "2026-06-18T08:26:18.392Z"
+    },
+    {
+      "id": 1781771388795,
+      "name": "Tafim",
+      "email": "user1781771388075@gmail.com",
+      "password_hash": null,
+      "phone": "demo_google_id",
+      "google_id": null,
+      "role": "user",
+      "created_at": "2026-06-18T08:29:48.795Z",
+      "is_blocked": 0
+    },
+    {
+      "id": 1781771627413,
+      "name": "Google User",
+      "email": "user1781771627232@gmail.com",
+      "password_hash": null,
+      "phone": "demo_google_id",
+      "google_id": null,
+      "role": "user",
+      "created_at": "2026-06-18T08:33:47.413Z"
+    },
+    {
+      "id": 1781778890638,
+      "name": "Shimul",
+      "email": "shimul@gmail.com",
+      "password_hash": null,
+      "phone": "demo_google_id",
+      "google_id": null,
+      "role": "user",
+      "created_at": "2026-06-18T10:34:50.638Z"
+    },
+    {
+      "id": 1781781145408,
+      "name": "Farabi Ahad Tafim",
+      "email": "farabiahadtafim@gmail.com",
+      "password_hash": null,
+      "phone": "115248929383174984878",
+      "google_id": "115248929383174984878",
+      "role": "admin",
+      "created_at": "2026-06-18T11:12:25.408Z"
+    },
+    {
+      "id": 1782053210563,
+      "name": "Md. Baized Hossain",
+      "email": "baized.hossain@pathao.com",
+      "password_hash": null,
+      "phone": "106577293826506248646",
+      "google_id": "106577293826506248646",
+      "address": null,
+      "role": "admin",
+      "created_at": "2026-06-21T14:46:50.563Z"
+    },
+    {
+      "id": 1782115617452,
+      "name": "Md. Mehedi Hasan",
+      "email": "hasanmehedi.md@pathao.com",
+      "password_hash": null,
+      "phone": "116960497700045599839",
+      "google_id": "116960497700045599839",
+      "address": null,
+      "role": "admin",
+      "is_blocked": 0,
+      "created_at": "2026-06-22T08:06:57.452Z"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Naviforce NF9226 Chronograph Watch for Men - Black",
+      "slug": "naviforce-nf9226-black",
+      "price": 3200,
+      "original_price": 3800,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9226 is a premium quality chronograph watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 15,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-9226-ch-black/naviforce-9226-ch-black.webp",
+      "images_json": "[\"/product-images/products/naviforce-9226-ch-black/naviforce-9226-ch-black.webp\",\"/product-images/products/naviforce-9226-ch-black/naviforce-9226-ch-black_04.webp\",\"/product-images/products/naviforce-9226-ch-black/naviforce-9226-ch-black_05.webp\"]"
+    },
+    {
+      "id": 3,
+      "title": "Naviforce NF9226 Chronograph - Silver Gold Black",
+      "slug": "naviforce-nf9226-silver-gold-black",
+      "price": 3400,
+      "original_price": 4000,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9226 is a premium quality premium chronograph watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 8,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-9226-ch-sliver-gold-black/naviforce-9226-ch-sliver-gold-black.webp",
+      "images_json": "[\"/product-images/products/naviforce-9226-ch-sliver-gold-black/naviforce-9226-ch-sliver-gold-black.webp\"]"
+    },
+    {
+      "id": 4,
+      "title": "Naviforce NF9212 Chronograph Watch - Black",
+      "slug": "naviforce-nf9212-black",
+      "price": 2900,
+      "original_price": 3400,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9212 is a premium quality sport chronograph watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 20,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-9212-ch-black/naviforce-9212-ch-black.webp",
+      "images_json": "[\"/product-images/products/naviforce-9212-ch-black/naviforce-9212-ch-black.webp\"]"
+    },
+    {
+      "id": 5,
+      "title": "Naviforce NF9212 Chronograph Watch - Blue",
+      "slug": "naviforce-nf9212-blue",
+      "price": 2900,
+      "original_price": 3400,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9212 is a premium quality sport chronograph blue watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 18,
+      "is_flash_sale": 1,
+      "discount_percent": 15,
+      "main_image": "/product-images/products/naviforce-9212-ch-blue/naviforce-9212-ch-blue.webp",
+      "images_json": "[\"/product-images/products/naviforce-9212-ch-blue/naviforce-9212-ch-blue.webp\"]"
+    },
+    {
+      "id": 6,
+      "title": "Naviforce NF9214 Chronograph - Black",
+      "slug": "naviforce-nf9214-black",
+      "price": 3100,
+      "original_price": 3600,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9214 is a premium quality dual time chronograph watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 10,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-9214-ch-black/naviforce-9214-ch-black.webp",
+      "images_json": "[\"/product-images/products/naviforce-9214-ch-black/naviforce-9214-ch-black.webp\"]"
+    },
+    {
+      "id": 7,
+      "title": "Naviforce NF9214 Chronograph - Silver Blue",
+      "slug": "naviforce-nf9214-silver-blue",
+      "price": 3100,
+      "original_price": 3600,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9214 is a premium quality silver blue chronograph watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 14,
+      "is_flash_sale": 1,
+      "discount_percent": 14,
+      "main_image": "/product-images/products/naviforce-9214-ch-silver-blue/naviforce-9214-ch-silver-blue.webp",
+      "images_json": "[\"/product-images/products/naviforce-9214-ch-silver-blue/naviforce-9214-ch-silver-blue.webp\"]"
+    },
+    {
+      "id": 8,
+      "title": "Naviforce NF9218 Chronograph - Silver Gold",
+      "slug": "naviforce-nf9218-silver-gold",
+      "price": 3300,
+      "original_price": 3900,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9218 is a premium quality luxury gold chronograph watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 6,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-9218-ch-silver-gold/naviforce-9218-ch-silver-gold.webp",
+      "images_json": "[\"/product-images/products/naviforce-9218-ch-silver-gold/naviforce-9218-ch-silver-gold.webp\"]"
+    },
+    {
+      "id": 9,
+      "title": "Naviforce NF9261 Leather Watch - Black",
+      "slug": "naviforce-nf9261-black",
+      "price": 2600,
+      "original_price": 3000,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9261 is a premium quality leather strap watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 25,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-9261-black/naviforce-9261-black.webp",
+      "images_json": "[\"/product-images/products/naviforce-9261-black/naviforce-9261-black.webp\"]"
+    },
+    {
+      "id": 10,
+      "title": "Naviforce NF9261 Leather Watch - Brown",
+      "slug": "naviforce-nf9261-brown",
+      "price": 2600,
+      "original_price": 3000,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9261 is a premium quality brown leather watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 20,
+      "is_flash_sale": 1,
+      "discount_percent": 13,
+      "main_image": "/product-images/products/naviforce-9261-brown/naviforce-9261-brown.webp",
+      "images_json": "[\"/product-images/products/naviforce-9261-brown/naviforce-9261-brown.webp\"]"
+    },
+    {
+      "id": 11,
+      "title": "Naviforce NF9261 Leather Watch - Blue",
+      "slug": "naviforce-nf9261-blue",
+      "price": 2600,
+      "original_price": 3000,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9261 is a premium quality navy blue leather watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 15,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-9261-blue/naviforce-9261-blue.webp",
+      "images_json": "[\"/product-images/products/naviforce-9261-blue/naviforce-9261-blue.webp\"]"
+    },
+    {
+      "id": 12,
+      "title": "Naviforce NF9261 Leather Watch - Green",
+      "slug": "naviforce-nf9261-green",
+      "price": 2600,
+      "original_price": 3100,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9261 is a premium quality forest green leather watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 12,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-9261-green/naviforce-9261-green.webp",
+      "images_json": "[\"/product-images/products/naviforce-9261-green/naviforce-9261-green.webp\"]"
+    },
+    {
+      "id": 13,
+      "title": "Naviforce NF9229 Leather Watch - Brown",
+      "slug": "naviforce-nf9229-brown",
+      "price": 2400,
+      "original_price": 2900,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9229 is a premium quality classic brown leather watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 30,
+      "is_flash_sale": 1,
+      "discount_percent": 17,
+      "main_image": "/product-images/products/naviforce-9229-brown/naviforce-9229-brown.webp",
+      "images_json": "[\"/product-images/products/naviforce-9229-brown/naviforce-9229-brown.webp\"]"
+    },
+    {
+      "id": 14,
+      "title": "Naviforce NF9229 Leather Watch - Green",
+      "slug": "naviforce-nf9229-green",
+      "price": 2400,
+      "original_price": 2900,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9229 is a premium quality olive green leather watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 18,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-9229-green/naviforce-9229-green.webp",
+      "images_json": "[\"/product-images/products/naviforce-9229-green/naviforce-9229-green.webp\"]"
+    },
+    {
+      "id": 18,
+      "title": "Naviforce NF9248 Leather - Silver Green",
+      "slug": "naviforce-nf9248-silver-green",
+      "price": 2500,
+      "original_price": 3000,
+      "category": "men",
+      "brand": "Naviforce",
+      "description": "Naviforce NF9248 is a premium quality fashion leather watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 14,
+      "is_flash_sale": 1,
+      "discount_percent": 17,
+      "main_image": "/product-images/products/naviforce-9248l-silver-green/naviforce-9248l-silver-green.webp",
+      "images_json": "[\"/product-images/products/naviforce-9248l-silver-green/naviforce-9248l-silver-green.webp\"]"
+    },
+    {
+      "id": 19,
+      "title": "Naviforce NF5051 Ladies Watch - Rose Gold",
+      "slug": "naviforce-nf5051-rose",
+      "price": 2200,
+      "original_price": 2700,
+      "category": "women",
+      "brand": "Naviforce",
+      "description": "Naviforce NF5051 is a premium quality ladies rose gold watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 20,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-5051-for-women-rose/naviforce-5051-for-women-rose.webp",
+      "images_json": "[\"/product-images/products/naviforce-5051-for-women-rose/naviforce-5051-for-women-rose.webp\"]"
+    },
+    {
+      "id": 20,
+      "title": "Naviforce NF5051 Ladies Watch - Gold",
+      "slug": "naviforce-nf5051-gold",
+      "price": 2200,
+      "original_price": 2700,
+      "category": "women",
+      "brand": "Naviforce",
+      "description": "Naviforce NF5051 is a premium quality ladies gold watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 18,
+      "is_flash_sale": 1,
+      "discount_percent": 18,
+      "main_image": "/product-images/products/naviforce-5051-for-women-gold/naviforce-5051-for-women-gold.webp",
+      "images_json": "[\"/product-images/products/naviforce-5051-for-women-gold/naviforce-5051-for-women-gold.webp\"]"
+    },
+    {
+      "id": 21,
+      "title": "Naviforce NF5051 Ladies Watch - Purple",
+      "slug": "naviforce-nf5051-purple",
+      "price": 2200,
+      "original_price": 2700,
+      "category": "women",
+      "brand": "Naviforce",
+      "description": "Naviforce NF5051 is a premium quality ladies purple watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 15,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-5051-for-women-purple/naviforce-5051-for-women-purple.webp",
+      "images_json": "[\"/product-images/products/naviforce-5051-for-women-purple/naviforce-5051-for-women-purple.webp\"]"
+    },
+    {
+      "id": 23,
+      "title": "Naviforce NF5068 Ladies Watch - Rose",
+      "slug": "naviforce-nf5068-rose",
+      "price": 2400,
+      "original_price": 2900,
+      "category": "women",
+      "brand": "Naviforce",
+      "description": "Naviforce NF5068 is a premium quality elegant ladies watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 20,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-5068-for-women-rose/naviforce-5068-for-women-rose.webp",
+      "images_json": "[\"/product-images/products/naviforce-5068-for-women-rose/naviforce-5068-for-women-rose.webp\"]"
+    },
+    {
+      "id": 24,
+      "title": "Naviforce NF5068 Ladies Watch - Gold",
+      "slug": "naviforce-nf5068-gold",
+      "price": 2400,
+      "original_price": 2900,
+      "category": "women",
+      "brand": "Naviforce",
+      "description": "Naviforce NF5068 is a premium quality gold ladies watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 16,
+      "is_flash_sale": 1,
+      "discount_percent": 17,
+      "main_image": "/product-images/products/naviforce-5068-for-women-gold/naviforce-5068-for-women-gold.webp",
+      "images_json": "[\"/product-images/products/naviforce-5068-for-women-gold/naviforce-5068-for-women-gold.webp\"]"
+    },
+    {
+      "id": 25,
+      "title": "Naviforce NF5048 Ladies Watch - Rose White",
+      "slug": "naviforce-nf5048-rose-white",
+      "price": 2100,
+      "original_price": 2600,
+      "category": "women",
+      "brand": "Naviforce",
+      "description": "Naviforce NF5048 is a premium quality rose white ladies watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 22,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-5048-rose-white-for-women/naviforce-5048-rose-white-for-women.webp",
+      "images_json": "[\"/product-images/products/naviforce-5048-rose-white-for-women/naviforce-5048-rose-white-for-women.webp\"]"
+    },
+    {
+      "id": 26,
+      "title": "Naviforce NF5049 Ladies Watch - Rose Gold Purple",
+      "slug": "naviforce-nf5049-rose-purple",
+      "price": 2300,
+      "original_price": 2800,
+      "category": "women",
+      "brand": "Naviforce",
+      "description": "Naviforce NF5049 is a premium quality rose gold purple ladies watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 14,
+      "is_flash_sale": 1,
+      "discount_percent": 18,
+      "main_image": "/product-images/products/naviforce-5049-rose-gold-purple-for-women/naviforce-5049-rose-gold-purple-for-women.webp",
+      "images_json": "[\"/product-images/products/naviforce-5049-rose-gold-purple-for-women/naviforce-5049-rose-gold-purple-for-women.webp\"]"
+    },
+    {
+      "id": 27,
+      "title": "Naviforce NF7115 Sport Watch Women - Pink",
+      "slug": "naviforce-nf7115-pink",
+      "price": 2600,
+      "original_price": 3100,
+      "category": "women",
+      "brand": "Naviforce",
+      "description": "Naviforce NF7115 is a premium quality sport silicone ladies watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 18,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/naviforce-7115-for-women-pink/naviforce-7115-for-women-pink.webp",
+      "images_json": "[\"/product-images/products/naviforce-7115-for-women-pink/naviforce-7115-for-women-pink.webp\"]"
+    },
+    {
+      "id": 28,
+      "title": "Naviforce NF7115 Sport Watch Women - Purple",
+      "slug": "naviforce-nf7115-purple",
+      "price": 2600,
+      "original_price": 3100,
+      "category": "women",
+      "brand": "Naviforce",
+      "description": "Naviforce NF7115 is a premium quality sport silicone purple ladies watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 14,
+      "is_flash_sale": 1,
+      "discount_percent": 16,
+      "main_image": "/product-images/products/naviforce-7115-for-women-purple/naviforce-7115-for-women-purple.webp",
+      "images_json": "[\"/product-images/products/naviforce-7115-for-women-purple/naviforce-7115-for-women-purple.webp\"]"
+    },
+    {
+      "id": 29,
+      "title": "Curren 8442 Men's Watch - Black",
+      "slug": "curren-8442-black",
+      "price": 1800,
+      "original_price": 2200,
+      "category": "men",
+      "brand": "Curren",
+      "description": "Curren 8442 is a premium quality sport quartz watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 25,
+      "is_flash_sale": 1,
+      "discount_percent": 18,
+      "main_image": "/product-images/products/curren-8442-black/curren-8442-black.webp",
+      "images_json": "[\"/product-images/products/curren-8442-black/curren-8442-black.webp\"]"
+    },
+    {
+      "id": 30,
+      "title": "Curren 8442 Men's Watch - Blue",
+      "slug": "curren-8442-blue",
+      "price": 1800,
+      "original_price": 2200,
+      "category": "men",
+      "brand": "Curren",
+      "description": "Curren 8442 is a premium quality sport quartz blue watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 20,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/curren-8442-blue/curren-8442-blue.webp",
+      "images_json": "[\"/product-images/products/curren-8442-blue/curren-8442-blue.webp\"]"
+    },
+    {
+      "id": 31,
+      "title": "Curren 8402 Watch - Rose Gold Blue",
+      "slug": "curren-8402-rose-gold",
+      "price": 1900,
+      "original_price": 2400,
+      "category": "men",
+      "brand": "Curren",
+      "description": "Curren 8402 is a premium quality rose gold fashion watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 18,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/curren-8402-rose-gold-blue/curren-8402-rose-gold-blue.webp",
+      "images_json": "[\"/product-images/products/curren-8402-rose-gold-blue/curren-8402-rose-gold-blue.webp\"]"
+    },
+    {
+      "id": 32,
+      "title": "Curren Women's Watch 9099 - Silver Sky Blue",
+      "slug": "curren-9099-silver-sky",
+      "price": 1700,
+      "original_price": 2100,
+      "category": "women",
+      "brand": "Curren",
+      "description": "Curren 9099 is a premium quality ladies steel watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 22,
+      "is_flash_sale": 1,
+      "discount_percent": 19,
+      "main_image": "/product-images/products/curren-9099-for-women-silver-sky-blue/curren-9099-for-women-silver-sky-blue.webp",
+      "images_json": "[\"/product-images/products/curren-9099-for-women-silver-sky-blue/curren-9099-for-women-silver-sky-blue.webp\"]"
+    },
+    {
+      "id": 34,
+      "title": "Poedagar 938 Watch - Silver Gold Black",
+      "slug": "poedagar-938-silver-gold-black",
+      "price": 2300,
+      "original_price": 2800,
+      "category": "men",
+      "brand": "Poedagar",
+      "description": "Poedagar 938 is a premium quality premium steel watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 12,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/poedagar-938-for-men-silver-gold-black/poedagar-938-for-men-silver-gold-black.webp",
+      "images_json": "[\"/product-images/products/poedagar-938-for-men-silver-gold-black/poedagar-938-for-men-silver-gold-black.webp\"]"
+    },
+    {
+      "id": 35,
+      "title": "Poedagar 783 Ladies Watch - Rose",
+      "slug": "poedagar-783-rose",
+      "price": 1900,
+      "original_price": 2400,
+      "category": "women",
+      "brand": "Poedagar",
+      "description": "Poedagar 783 is a premium quality rose ladies fashion watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 20,
+      "is_flash_sale": 1,
+      "discount_percent": 21,
+      "main_image": "/product-images/products/poedagar-783-for-women-rose/poedagar-783-for-women-rose.webp",
+      "images_json": "[\"/product-images/products/poedagar-783-for-women-rose/poedagar-783-for-women-rose.webp\"]"
+    },
+    {
+      "id": 36,
+      "title": "Casio MTP-VD01D Men's Watch - Black",
+      "slug": "casio-mtp-vd01d-black",
+      "price": 2900,
+      "original_price": 3200,
+      "category": "men",
+      "brand": "Casio",
+      "description": "Casio MTP-VD01D is an elegant analog men's watch with stainless steel case and band. Features precise Japanese quartz movement, mineral glass crystal and 30m water resistance. Original Casio with 2 year warranty.",
+      "stock": 20,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/casio-mtp-vd01d-1bvudf/casio-mtp-vd01d-1bvudf.webp",
+      "images_json": "[\"/product-images/products/casio-mtp-vd01d-1bvudf/casio-mtp-vd01d-1bvudf.webp\"]"
+    },
+    {
+      "id": 38,
+      "title": "Casio F-91W Digital Watch",
+      "slug": "casio-f91w-digital",
+      "price": 1200,
+      "original_price": 1500,
+      "category": "men",
+      "brand": "Casio",
+      "description": "Casio F-91W is the world famous digital watch with LED backlight, stopwatch, daily alarm and 7 year battery life. Water resistant to 30m. A timeless classic.",
+      "stock": 50,
+      "is_flash_sale": 1,
+      "discount_percent": 20,
+      "main_image": "/product-images/products/casio-f-91w-1dg-2/casio-f-91w-1dg-2.webp",
+      "images_json": "[\"/product-images/products/casio-f-91w-1dg-2/casio-f-91w-1dg-2.webp\"]"
+    },
+    {
+      "id": 39,
+      "title": "Skmei 9185 Sport Watch - Blue",
+      "slug": "skmei-9185-blue",
+      "price": 1500,
+      "original_price": 1900,
+      "category": "men",
+      "brand": "Skmei",
+      "description": "Skmei 9185 is a premium quality sport digital watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 30,
+      "is_flash_sale": 1,
+      "discount_percent": 21,
+      "main_image": "/product-images/products/skmei-9185-blue/skmei-9185-blue.webp",
+      "images_json": "[\"/product-images/products/skmei-9185-blue/skmei-9185-blue.webp\"]"
+    },
+    {
+      "id": 40,
+      "title": "Skmei 9185 Sport Watch - Green",
+      "slug": "skmei-9185-green",
+      "price": 1500,
+      "original_price": 1900,
+      "category": "men",
+      "brand": "Skmei",
+      "description": "Skmei 9185 is a premium quality sport digital green watch featuring stainless steel case, mineral crystal glass, and water resistance up to 30 meters. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 25,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/skmei-9185-green/skmei-9185-green.webp",
+      "images_json": "[\"/product-images/products/skmei-9185-green/skmei-9185-green.webp\"]"
+    },
+    {
+      "id": 41,
+      "title": "HAYLOU Solar Lite 2 Smart Watch - Black",
+      "slug": "haylou-solar-lite-2-smart-watch-black",
+      "price": 4300,
+      "original_price": 5400,
+      "category": "Smart Watch",
+      "brand": "Haylou",
+      "description": "HAYLOU Solar Lite 2 Smart Watch - Black is a premium smart watch featuring a brilliant display, fitness tracking, and long battery life. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 48,
+      "is_flash_sale": 0,
+      "discount_percent": 15,
+      "main_image": "/product-images/products/Smart Watch/HAYLOU Solar Lite 2 Smart Watch - Black/1776675803720_color-20260223-699bd82921561.webp",
+      "images_json": "[\"/product-images/products/Smart Watch/HAYLOU Solar Lite 2 Smart Watch - Black/1776675803720_color-20260223-699bd82921561.webp\",\"/product-images/products/Smart Watch/HAYLOU Solar Lite 2 Smart Watch - Black/1776675803794_gallery-20260223-699bd82923502.webp\",\"/product-images/products/Smart Watch/HAYLOU Solar Lite 2 Smart Watch - Black/1776675803797_gallery-20260223-699bd82923a6c.webp\",\"/product-images/products/Smart Watch/HAYLOU Solar Lite 2 Smart Watch - Black/1776676553928_whatsapp_image_2026-04-19_at_7.03.10_pm.jpeg\"]"
+    },
+    {
+      "id": 42,
+      "title": "HAYLOU Solar Lite 2 Smart Watch - Silver",
+      "slug": "haylou-solar-lite-2-smart-watch-silver",
+      "price": 3500,
+      "original_price": 5200,
+      "category": "Smart Watch",
+      "brand": "Haylou",
+      "description": "HAYLOU Solar Lite 2 Smart Watch - Silver is a premium smart watch featuring a brilliant display, fitness tracking, and long battery life. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 43,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/Smart Watch/HAYLOU Solar Lite 2 Smart Watch - Silver/1776676526002_color-20260223-699bd8291eb18.webp",
+      "images_json": "[\"/product-images/products/Smart Watch/HAYLOU Solar Lite 2 Smart Watch - Silver/1776676526002_color-20260223-699bd8291eb18.webp\",\"/product-images/products/Smart Watch/HAYLOU Solar Lite 2 Smart Watch - Silver/1776676526002_gallery-20260223-699bd829237cb.webp\",\"/product-images/products/Smart Watch/HAYLOU Solar Lite 2 Smart Watch - Silver/1776676526002_whatsapp_image_2026-04-19_at_7.03.10_pm_1_.jpeg\"]"
+    },
+    {
+      "id": 43,
+      "title": "Haylou Watch 3 BT Calling Smartwatch - Silver",
+      "slug": "haylou-watch-3-bt-calling-smartwatch-silver",
+      "price": 3600,
+      "original_price": 5300,
+      "category": "Smart Watch",
+      "brand": "Haylou",
+      "description": "Haylou Watch 3 BT Calling Smartwatch - Silver is a premium smart watch featuring a brilliant display, fitness tracking, and long battery life. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 39,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/Smart Watch/Haylou Watch 3 BT Calling Smartwatch - Silver/1775138831520_wlxdz9iyj3kybwghlusywiczbdashvden9qvjgnx.webp",
+      "images_json": "[\"/product-images/products/Smart Watch/Haylou Watch 3 BT Calling Smartwatch - Silver/1775138831520_wlxdz9iyj3kybwghlusywiczbdashvden9qvjgnx.webp\",\"/product-images/products/Smart Watch/Haylou Watch 3 BT Calling Smartwatch - Silver/1775138872790_wlxdz9iyj3kybwghlusywiczbdashvden9qvjgnx.webp\"]"
+    },
+    {
+      "id": 44,
+      "title": "Haylou Watch 4 Smart Watch with GPS – Silver",
+      "slug": "haylou-watch-4-smart-watch-with-gps-silver",
+      "price": 4400,
+      "original_price": 4500,
+      "category": "Smart Watch",
+      "brand": "Haylou",
+      "description": "Haylou Watch 4 Smart Watch with GPS – Silver is a premium smart watch featuring a brilliant display, fitness tracking, and long battery life. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 32,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/Smart Watch/Haylou Watch 4 Smart Watch with GPS – Silver/1777970930797_watch-4-7-5-25-3.jpg",
+      "images_json": "[\"/product-images/products/Smart Watch/Haylou Watch 4 Smart Watch with GPS – Silver/1777970930797_watch-4-7-5-25-3.jpg\",\"/product-images/products/Smart Watch/Haylou Watch 4 Smart Watch with GPS – Silver/1777970930798_watch-4-7-5-25-3.jpg\"]"
+    },
+    {
+      "id": 45,
+      "title": "IMIKI HOLO Ultra - Silver Blue Gray",
+      "slug": "imiki-holo-ultra-silver-blue-gray",
+      "price": 3600,
+      "original_price": 5400,
+      "category": "Smart Watch",
+      "brand": "Imiki",
+      "description": "IMIKI HOLO Ultra - Silver Blue Gray is a premium smart watch featuring a brilliant display, fitness tracking, and long battery life. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 20,
+      "is_flash_sale": 1,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/Smart Watch/IMIKI HOLO Ultra - Silver Blue Gray/1775137274227_2.1545.jpg",
+      "images_json": "[\"/product-images/products/Smart Watch/IMIKI HOLO Ultra - Silver Blue Gray/1775137274227_2.1545.jpg\",\"/product-images/products/Smart Watch/IMIKI HOLO Ultra - Silver Blue Gray/1775137274227_2.1548.jpg\",\"/product-images/products/Smart Watch/IMIKI HOLO Ultra - Silver Blue Gray/1775137274227_2.1554.jpg\",\"/product-images/products/Smart Watch/IMIKI HOLO Ultra - Silver Blue Gray/1775137274227_2.1557.jpg\"]"
+    },
+    {
+      "id": 46,
+      "title": "IMIKI Xplorer Pro Smart Watch with GPS",
+      "slug": "imiki-xplorer-pro-smart-watch-with-gps",
+      "price": 3600,
+      "original_price": 5200,
+      "category": "Smart Watch",
+      "brand": "Imiki",
+      "description": "IMIKI Xplorer Pro Smart Watch with GPS is a premium smart watch featuring a brilliant display, fitness tracking, and long battery life. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 35,
+      "is_flash_sale": 0,
+      "discount_percent": 15,
+      "main_image": "/product-images/products/Smart Watch/IMIKI Xplorer Pro Smart Watch with GPS/1775653057358_imiki-xplorer-pro-01-500x500.webp",
+      "images_json": "[\"/product-images/products/Smart Watch/IMIKI Xplorer Pro Smart Watch with GPS/1775653057358_imiki-xplorer-pro-01-500x500.webp\",\"/product-images/products/Smart Watch/IMIKI Xplorer Pro Smart Watch with GPS/1775653057358_imiki-xplorer-pro-02-500x500.webp\",\"/product-images/products/Smart Watch/IMIKI Xplorer Pro Smart Watch with GPS/1775653057358_imiki-xplorer-pro-03-500x500.webp\"]"
+    },
+    {
+      "id": 47,
+      "title": "Valdus VB03 Bluetooth calling Smartwatch - Gray",
+      "slug": "valdus-vb03-bluetooth-calling-smartwatch-gray",
+      "price": 4400,
+      "original_price": 4800,
+      "category": "Smart Watch",
+      "brand": "Valdus",
+      "description": "Valdus VB03 Bluetooth calling Smartwatch - Gray is a premium smart watch featuring a brilliant display, fitness tracking, and long battery life. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 35,
+      "is_flash_sale": 1,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/Smart Watch/Valdus VB03 Bluetooth calling Smartwatch - Gray/1780924245253_imageye_-_imgi_5_149-666x855.jpg",
+      "images_json": "[\"/product-images/products/Smart Watch/Valdus VB03 Bluetooth calling Smartwatch - Gray/1780924245253_imageye_-_imgi_5_149-666x855.jpg\"]"
+    },
+    {
+      "id": 48,
+      "title": "VALDUS VS30 PRO Smart Watch - Blue",
+      "slug": "valdus-vs30-pro-smart-watch-blue",
+      "price": 3700,
+      "original_price": 4900,
+      "category": "Smart Watch",
+      "brand": "Valdus",
+      "description": "VALDUS VS30 PRO Smart Watch - Blue is a premium smart watch featuring a brilliant display, fitness tracking, and long battery life. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 43,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/Smart Watch/VALDUS VS30 PRO Smart Watch - Blue/1775141790356_hf527d68c6aa54b92837ad13961e35d88o.png",
+      "images_json": "[\"/product-images/products/Smart Watch/VALDUS VS30 PRO Smart Watch - Blue/1775141790356_hf527d68c6aa54b92837ad13961e35d88o.png\",\"/product-images/products/Smart Watch/VALDUS VS30 PRO Smart Watch - Blue/1775141857687_hf527d68c6aa54b92837ad13961e35d88o.png\"]"
+    },
+    {
+      "id": 49,
+      "title": "VALDUS VS30 PRO Smart Watch - Gold",
+      "slug": "valdus-vs30-pro-smart-watch-gold",
+      "price": 3600,
+      "original_price": 5300,
+      "category": "Smart Watch",
+      "brand": "Valdus",
+      "description": "VALDUS VS30 PRO Smart Watch - Gold is a premium smart watch featuring a brilliant display, fitness tracking, and long battery life. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 46,
+      "is_flash_sale": 0,
+      "discount_percent": 15,
+      "main_image": "/product-images/products/Smart Watch/VALDUS VS30 PRO Smart Watch - Gold/1775141721331_h7d044915ca50431885fade0325e3aeb1g.png",
+      "images_json": "[\"/product-images/products/Smart Watch/VALDUS VS30 PRO Smart Watch - Gold/1775141721331_h7d044915ca50431885fade0325e3aeb1g.png\",\"/product-images/products/Smart Watch/VALDUS VS30 PRO Smart Watch - Gold/1775141868981_h7d044915ca50431885fade0325e3aeb1g.png\"]"
+    },
+    {
+      "id": 50,
+      "title": "Valdus VS41-PRO Smart Watch for Men - Pink",
+      "slug": "valdus-vs41-pro-smart-watch-for-men-pink",
+      "price": 4000,
+      "original_price": 5400,
+      "category": "Smart Watch",
+      "brand": "Valdus",
+      "description": "Valdus VS41-PRO Smart Watch for Men - Pink is a premium smart watch featuring a brilliant display, fitness tracking, and long battery life. Perfect for everyday wear with style and durability. Comes with 1 year replacement warranty.",
+      "stock": 40,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/Smart Watch/Valdus VS41-PRO Smart Watch for Men - Pink/1775140718276_h72b46d48419441c7a3a80fd9f7877ecac.png_960x960q80.png",
+      "images_json": "[\"/product-images/products/Smart Watch/Valdus VS41-PRO Smart Watch for Men - Pink/1775140718276_h72b46d48419441c7a3a80fd9f7877ecac.png_960x960q80.png\"]"
+    },
+    {
+      "id": 51,
+      "title": "1926 Watch",
+      "slug": "1926-watch",
+      "price": 34800,
+      "original_price": 40000,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "1926 Watch is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 14,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/1926 Watch/1926 Watch.png",
+      "images_json": "[\"/product-images/products/1926 Watch/1926 Watch.png\"]"
+    },
+    {
+      "id": 52,
+      "title": "BLACK BAY 54 BLUE' WATCH",
+      "slug": "black-bay-54-blue-watch",
+      "price": 41800,
+      "original_price": 45700,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "BLACK BAY 54 BLUE' WATCH is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 14,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/BLACK BAY 54 BLUE' WATCH/BLACK BAY 54 BLUE' COVER.jpeg",
+      "images_json": "[\"/product-images/products/BLACK BAY 54 BLUE' WATCH/BLACK BAY 54 BLUE' COVER.jpeg\",\"/product-images/products/BLACK BAY 54 BLUE' WATCH/BLACK BAY 54 BLUE' WATCH.png\"]"
+    },
+    {
+      "id": 53,
+      "title": "BLACK BAY 58 COVER",
+      "slug": "black-bay-58-cover",
+      "price": 21600,
+      "original_price": 24000,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "BLACK BAY 58 COVER is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 5,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/BLACK BAY 58 COVER/BLACK BAY 58 COVER.jpeg",
+      "images_json": "[\"/product-images/products/BLACK BAY 58 COVER/BLACK BAY 58 COVER.jpeg\",\"/product-images/products/BLACK BAY 58 COVER/BLACK BAY 58 COVER.png\"]"
+    },
+    {
+      "id": 54,
+      "title": "BLACK BAY 58 GMT WATCH",
+      "slug": "black-bay-58-gmt-watch",
+      "price": 28100,
+      "original_price": 32900,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "BLACK BAY 58 GMT WATCH is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 9,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/BLACK BAY 58 GMT WATCH/BLACK BAY 58 GMT COVER.jpeg",
+      "images_json": "[\"/product-images/products/BLACK BAY 58 GMT WATCH/BLACK BAY 58 GMT COVER.jpeg\",\"/product-images/products/BLACK BAY 58 GMT WATCH/BLACK BAY 58 GMT WATCH.png\"]"
+    },
+    {
+      "id": 55,
+      "title": "BLACK BAY 68 Watch",
+      "slug": "black-bay-68-watch",
+      "price": 31500,
+      "original_price": 37100,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "BLACK BAY 68 Watch is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 13,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/BLACK BAY 68 Watch/BLACK BAY 68 Cover.jpeg",
+      "images_json": "[\"/product-images/products/BLACK BAY 68 Watch/BLACK BAY 68 Cover.jpeg\",\"/product-images/products/BLACK BAY 68 Watch/BLACK BAY 68 Watch.png\"]"
+    },
+    {
+      "id": 56,
+      "title": "BLACK BAY Bronze Watch",
+      "slug": "black-bay-bronze-watch",
+      "price": 28100,
+      "original_price": 31900,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "BLACK BAY Bronze Watch is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 10,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/BLACK BAY Bronze Watch/BLACK BAY Bronze Cover.jpeg",
+      "images_json": "[\"/product-images/products/BLACK BAY Bronze Watch/BLACK BAY Bronze Cover.jpeg\",\"/product-images/products/BLACK BAY Bronze Watch/BLACK BAY Bronze Watch.png\"]"
+    },
+    {
+      "id": 57,
+      "title": "BLACK BAY CERAMIC WATCH",
+      "slug": "black-bay-ceramic-watch",
+      "price": 43400,
+      "original_price": 45800,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "BLACK BAY CERAMIC WATCH is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 6,
+      "is_flash_sale": 1,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/BLACK BAY CERAMIC WATCH/BLACK BAY CERAMIC COVER 2.jpeg",
+      "images_json": "[\"/product-images/products/BLACK BAY CERAMIC WATCH/BLACK BAY CERAMIC COVER 2.jpeg\",\"/product-images/products/BLACK BAY CERAMIC WATCH/BLACK BAY CERAMIC WATCH.png\"]"
+    },
+    {
+      "id": 58,
+      "title": "BLACK BAY CHRONO Watch",
+      "slug": "black-bay-chrono-watch",
+      "price": 22800,
+      "original_price": 26600,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "BLACK BAY CHRONO Watch is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 9,
+      "is_flash_sale": 1,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/BLACK BAY CHRONO Watch/BLACK BAY CHRONO Cover.jpeg",
+      "images_json": "[\"/product-images/products/BLACK BAY CHRONO Watch/BLACK BAY CHRONO Cover.jpeg\",\"/product-images/products/BLACK BAY CHRONO Watch/BLACK BAY CHRONO Watch.png\"]"
+    },
+    {
+      "id": 59,
+      "title": "BLACK BAY GMT Watch",
+      "slug": "black-bay-gmt-watch",
+      "price": 27100,
+      "original_price": 31700,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "BLACK BAY GMT Watch is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 13,
+      "is_flash_sale": 0,
+      "discount_percent": 10,
+      "main_image": "/product-images/products/BLACK BAY GMT Watch/BLACK BAY GMT Cover.jpeg",
+      "images_json": "[\"/product-images/products/BLACK BAY GMT Watch/BLACK BAY GMT Cover.jpeg\",\"/product-images/products/BLACK BAY GMT Watch/BLACK BAY GMT Watch.png\"]"
+    },
+    {
+      "id": 60,
+      "title": "BLACK BAY One Watch",
+      "slug": "black-bay-one-watch",
+      "price": 30400,
+      "original_price": 32900,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "BLACK BAY One Watch is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 8,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/BLACK BAY One Watch/BLACK BAY One Cover.jpeg",
+      "images_json": "[\"/product-images/products/BLACK BAY One Watch/BLACK BAY One Cover.jpeg\",\"/product-images/products/BLACK BAY One Watch/BLACK BAY One Watch.png\"]"
+    },
+    {
+      "id": 61,
+      "title": "BLACK BAY PRO Watch",
+      "slug": "black-bay-pro-watch",
+      "price": 22800,
+      "original_price": 28500,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "BLACK BAY PRO Watch is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 7,
+      "is_flash_sale": 1,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/BLACK BAY PRO Watch/BLACK BAY PRO Cover.jpeg",
+      "images_json": "[\"/product-images/products/BLACK BAY PRO Watch/BLACK BAY PRO Cover.jpeg\",\"/product-images/products/BLACK BAY PRO Watch/BLACK BAY PRO Watch.png\"]"
+    },
+    {
+      "id": 62,
+      "title": "BLACK BAY Watch",
+      "slug": "black-bay-watch",
+      "price": 28600,
+      "original_price": 31100,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "BLACK BAY Watch is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 11,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/BLACK BAY Watch/BLACK BAY Cover.jpeg",
+      "images_json": "[\"/product-images/products/BLACK BAY Watch/BLACK BAY Cover.jpeg\",\"/product-images/products/BLACK BAY Watch/BLACK BAY Watch.png\"]"
+    },
+    {
+      "id": 64,
+      "title": "Pelagos FXD Watch",
+      "slug": "pelagos-fxd-watch",
+      "price": 26500,
+      "original_price": 28600,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "Pelagos FXD Watch is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 10,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/Pelagos FXD Watch/Pelagos FXD Cover.jpeg",
+      "images_json": "[\"/product-images/products/Pelagos FXD Watch/Pelagos FXD Cover.jpeg\",\"/product-images/products/Pelagos FXD Watch/Pelagos FXD Watch.png\"]"
+    },
+    {
+      "id": 65,
+      "title": "Pelagos Watch",
+      "slug": "pelagos-watch",
+      "price": 40600,
+      "original_price": 45900,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "Pelagos Watch is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 13,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/Pelagos Watch/Pelagos Cover.jpeg",
+      "images_json": "[\"/product-images/products/Pelagos Watch/Pelagos Cover.jpeg\",\"/product-images/products/Pelagos Watch/Pelagos Watch.png\"]"
+    },
+    {
+      "id": 66,
+      "title": "Ranger Watch",
+      "slug": "ranger-watch",
+      "price": 27100,
+      "original_price": 32600,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "Ranger Watch is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 8,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/Ranger Watch/Ranger Cover.jpeg",
+      "images_json": "[\"/product-images/products/Ranger Watch/Ranger Cover.jpeg\",\"/product-images/products/Ranger Watch/Ranger Watch.png\"]"
+    },
+    {
+      "id": 67,
+      "title": "TUDOR MONARCH WATCH",
+      "slug": "tudor-monarch-watch",
+      "price": 23400,
+      "original_price": 28500,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "TUDOR MONARCH WATCH is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 9,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/TUDOR MONARCH WATCH/TUDOR MONARCH COVER.jpeg",
+      "images_json": "[\"/product-images/products/TUDOR MONARCH WATCH/TUDOR MONARCH COVER.jpeg\",\"/product-images/products/TUDOR MONARCH WATCH/TUDOR MONARCH WATCH.png\"]"
+    },
+    {
+      "id": 68,
+      "title": "TUDOR ROYAL Watch",
+      "slug": "tudor-royal-watch",
+      "price": 31700,
+      "original_price": 34300,
+      "category": "men",
+      "brand": "Tudor",
+      "description": "TUDOR ROYAL Watch is a premium luxury timepiece featuring exquisite craftsmanship and unparalleled precision. A true legacy watch.",
+      "stock": 12,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/product-images/products/TUDOR ROYAL Watch/TUDOR ROYAL COVER.jpeg",
+      "images_json": "[\"/product-images/products/TUDOR ROYAL Watch/TUDOR ROYAL COVER.jpeg\",\"/product-images/products/TUDOR ROYAL Watch/TUDOR ROYAL Watch.png\"]"
+    },
+    {
+      "id": 62,
+      "title": "Caseo 125 Classic",
+      "slug": "caseo-125-classic-1782117031051",
+      "price": 2000,
+      "original_price": 1200,
+      "category": "Men",
+      "brand": "Caseo",
+      "description": "Vintage Watch",
+      "stock": 20,
+      "is_flash_sale": 0,
+      "discount_percent": 0,
+      "main_image": "/uploads/1782117031007-893830743.webp",
+      "images_json": "[\"/uploads/1782117031007-893830743.webp\"]",
+      "sku": "1006",
+      "movement": "Automatic",
+      "glass_type": "Sapphire Crystal",
+      "water_resistance": "50m",
+      "strap_material": "Stainless Steel",
+      "created_at": "2026-06-22T08:30:31.525Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1782048771901,
+      "user_id": 1782046181718,
+      "total_amount": 3700,
+      "shipping_name": "MD. Mehedi Hasan",
+      "shipping_phone": "01638228009",
+      "shipping_address": "dhaka ",
+      "payment_method": "cod",
+      "note": "urgent",
+      "status": "delivered",
+      "created_at": "2026-06-21T13:32:51.901Z"
+    },
+    {
+      "id": 1782055882504,
+      "user_id": 1782053210563,
+      "total_amount": 3500,
+      "shipping_name": "Md. Baized Hossain",
+      "shipping_phone": "5*845895",
+      "shipping_address": "uyguhnb",
+      "payment_method": "cod",
+      "note": "ijhn",
+      "status": "cancelled",
+      "created_at": "2026-06-21T15:31:22.504Z"
+    },
+    {
+      "id": 1782078766810,
+      "user_id": 1782040712094,
+      "total_amount": 71300,
+      "shipping_name": "Devid ",
+      "shipping_phone": "+018660452361",
+      "shipping_address": "56/B Azimpur Etimkhana, Dhaka ",
+      "payment_method": "cod",
+      "note": "Home Deliver",
+      "status": "pending",
+      "created_at": "2026-06-21T21:52:46.810Z"
+    }
+  ],
+  "order_items": [
+    {
+      "id": 1782048771909,
+      "order_id": 1782048771901,
+      "product_id": 48,
+      "quantity": 1,
+      "price": 3700
+    },
+    {
+      "id": 1782055882510,
+      "order_id": 1782055882504,
+      "product_id": 42,
+      "quantity": 1,
+      "price": 3500
+    },
+    {
+      "id": 1782078766813,
+      "order_id": 1782078766810,
+      "product_id": 43,
+      "quantity": 1,
+      "price": 3600
+    },
+    {
+      "id": 1782078766817,
+      "order_id": 1782078766810,
+      "product_id": 65,
+      "quantity": 1,
+      "price": 40600
+    },
+    {
+      "id": 1782078766820,
+      "order_id": 1782078766810,
+      "product_id": 66,
+      "quantity": 1,
+      "price": 27100
+    }
+  ],
+  "cart": [],
+  "watchlist": [
+    {
+      "id": 1782046185015,
+      "user_id": 1782046181718,
+      "product_id": 41,
+      "added_at": "2026-06-21T12:49:45.015Z"
+    },
+    {
+      "id": 1782046215268,
+      "user_id": 1782046181718,
+      "product_id": 43,
+      "added_at": "2026-06-21T12:50:15.268Z"
+    },
+    {
+      "id": 1782046218429,
+      "user_id": 1782046181718,
+      "product_id": 48,
+      "added_at": "2026-06-21T12:50:18.429Z"
+    },
+    {
+      "id": 1782055270702,
+      "user_id": 1782053210563,
+      "product_id": 3,
+      "added_at": "2026-06-21T15:21:10.702Z"
+    },
+    {
+      "id": 1782055835942,
+      "user_id": 1782053210563,
+      "product_id": 41,
+      "added_at": "2026-06-21T15:30:35.942Z"
+    },
+    {
+      "id": 1782055837532,
+      "user_id": 1782053210563,
+      "product_id": 42,
+      "added_at": "2026-06-21T15:30:37.532Z"
+    },
+    {
+      "id": 1782078371811,
+      "user_id": 1782040712094,
+      "product_id": 10,
+      "added_at": "2026-06-21T21:46:11.811Z"
+    },
+    {
+      "id": 1782078387695,
+      "user_id": 1782040712094,
+      "product_id": 57,
+      "added_at": "2026-06-21T21:46:27.695Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1782043429258,
+      "product_id": 1,
+      "user_name": "Samiul B",
+      "rating": 5,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-05-22T12:03:47.303Z"
+    },
+    {
+      "id": 1782043435381,
+      "product_id": 3,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-04-04T12:03:47.305Z"
+    },
+    {
+      "id": 1782043432910,
+      "product_id": 3,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-04-03T12:03:47.305Z"
+    },
+    {
+      "id": 1782043433701,
+      "product_id": 4,
+      "user_name": "Tahmina Akter",
+      "rating": 5,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-05-23T12:03:47.305Z"
+    },
+    {
+      "id": 1782043435238,
+      "product_id": 4,
+      "user_name": "Tanvir H",
+      "rating": 5,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-03-30T12:03:47.305Z"
+    },
+    {
+      "id": 1782043427559,
+      "product_id": 4,
+      "user_name": "Samiul B",
+      "rating": 5,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-04-19T12:03:47.305Z"
+    },
+    {
+      "id": 1782043431681,
+      "product_id": 5,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-04-23T12:03:47.305Z"
+    },
+    {
+      "id": 1782043428669,
+      "product_id": 5,
+      "user_name": "Mehedi Hasan",
+      "rating": 4,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-06-03T12:03:47.305Z"
+    },
+    {
+      "id": 1782043435024,
+      "product_id": 5,
+      "user_name": "Tahmina Akter",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-04-27T12:03:47.305Z"
+    },
+    {
+      "id": 1782043433628,
+      "product_id": 6,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-05-03T12:03:47.305Z"
+    },
+    {
+      "id": 1782043434123,
+      "product_id": 6,
+      "user_name": "Mehedi Hasan",
+      "rating": 5,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-06-07T12:03:47.305Z"
+    },
+    {
+      "id": 1782043430407,
+      "product_id": 7,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-04-01T12:03:47.306Z"
+    },
+    {
+      "id": 1782043431634,
+      "product_id": 7,
+      "user_name": "Tahmina Akter",
+      "rating": 5,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-05-29T12:03:47.306Z"
+    },
+    {
+      "id": 1782043437025,
+      "product_id": 7,
+      "user_name": "Tahmina Akter",
+      "rating": 5,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-05-11T12:03:47.306Z"
+    },
+    {
+      "id": 1782043429329,
+      "product_id": 8,
+      "user_name": "Tanvir H",
+      "rating": 5,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-05-28T12:03:47.306Z"
+    },
+    {
+      "id": 1782043432897,
+      "product_id": 8,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-04-21T12:03:47.306Z"
+    },
+    {
+      "id": 1782043432364,
+      "product_id": 9,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-04-28T12:03:47.306Z"
+    },
+    {
+      "id": 1782043430820,
+      "product_id": 10,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-06-18T12:03:47.306Z"
+    },
+    {
+      "id": 1782043431475,
+      "product_id": 10,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-05-10T12:03:47.306Z"
+    },
+    {
+      "id": 1782043431211,
+      "product_id": 10,
+      "user_name": "Tahmina Akter",
+      "rating": 4,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-05-28T12:03:47.306Z"
+    },
+    {
+      "id": 1782043434628,
+      "product_id": 11,
+      "user_name": "Tahmina Akter",
+      "rating": 5,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-05-07T12:03:47.306Z"
+    },
+    {
+      "id": 1782043427526,
+      "product_id": 11,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-05-07T12:03:47.306Z"
+    },
+    {
+      "id": 1782043437123,
+      "product_id": 11,
+      "user_name": "Tanvir H",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-06-21T12:03:47.306Z"
+    },
+    {
+      "id": 1782043434408,
+      "product_id": 12,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-05-06T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428937,
+      "product_id": 12,
+      "user_name": "Tanvir H",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-06-06T12:03:47.306Z"
+    },
+    {
+      "id": 1782043435942,
+      "product_id": 12,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-05-03T12:03:47.306Z"
+    },
+    {
+      "id": 1782043432105,
+      "product_id": 13,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-05-02T12:03:47.306Z"
+    },
+    {
+      "id": 1782043431328,
+      "product_id": 13,
+      "user_name": "Tahmina Akter",
+      "rating": 4,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-05-04T12:03:47.306Z"
+    },
+    {
+      "id": 1782043435977,
+      "product_id": 13,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-05-18T12:03:47.306Z"
+    },
+    {
+      "id": 1782043431115,
+      "product_id": 14,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-05-13T12:03:47.306Z"
+    },
+    {
+      "id": 1782043437084,
+      "product_id": 14,
+      "user_name": "Tahmina Akter",
+      "rating": 5,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-06-21T12:03:47.306Z"
+    },
+    {
+      "id": 1782043434125,
+      "product_id": 18,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-04-03T12:03:47.306Z"
+    },
+    {
+      "id": 1782043432217,
+      "product_id": 18,
+      "user_name": "Mehedi Hasan",
+      "rating": 5,
+      "comment": "অরিজিনাল প্রোডাক্ট দেওয়ার জন্য ধন্যবাদ লেগ্যাসি വാচেসকে।",
+      "created_at": "2026-05-10T12:03:47.306Z"
+    },
+    {
+      "id": 1782043434259,
+      "product_id": 19,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "অরিজিনাল প্রোডাক্ট দেওয়ার জন্য ধন্যবাদ লেগ্যাসি വാচেসকে।",
+      "created_at": "2026-04-13T12:03:47.306Z"
+    },
+    {
+      "id": 1782043436101,
+      "product_id": 19,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-05-17T12:03:47.306Z"
+    },
+    {
+      "id": 1782043431001,
+      "product_id": 20,
+      "user_name": "Samiul B",
+      "rating": 5,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-06-14T12:03:47.306Z"
+    },
+    {
+      "id": 1782043429257,
+      "product_id": 20,
+      "user_name": "Nusrat Jahan",
+      "rating": 4,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-04-26T12:03:47.306Z"
+    },
+    {
+      "id": 1782043437020,
+      "product_id": 21,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-05-20T12:03:47.306Z"
+    },
+    {
+      "id": 1782043429473,
+      "product_id": 21,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "অরিজিনাল প্রোডাক্ট দেওয়ার জন্য ধন্যবাদ লেগ্যাসি വാচেসকে।",
+      "created_at": "2026-04-27T12:03:47.306Z"
+    },
+    {
+      "id": 1782043430278,
+      "product_id": 23,
+      "user_name": "Mehedi Hasan",
+      "rating": 5,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-04-22T12:03:47.306Z"
+    },
+    {
+      "id": 1782043429754,
+      "product_id": 23,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-05-01T12:03:47.306Z"
+    },
+    {
+      "id": 1782043432978,
+      "product_id": 23,
+      "user_name": "Arafat Rahman",
+      "rating": 4,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-04-02T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428527,
+      "product_id": 24,
+      "user_name": "Rafi Ahmed",
+      "rating": 4,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-06-18T12:03:47.306Z"
+    },
+    {
+      "id": 1782043434836,
+      "product_id": 24,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-05-11T12:03:47.306Z"
+    },
+    {
+      "id": 1782043432611,
+      "product_id": 24,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-04-14T12:03:47.306Z"
+    },
+    {
+      "id": 1782043436978,
+      "product_id": 25,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-05-13T12:03:47.306Z"
+    },
+    {
+      "id": 1782043436646,
+      "product_id": 25,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "অরিজিনাল প্রোডাক্ট দেওয়ার জন্য ধন্যবাদ লেগ্যাসি വാচেসকে।",
+      "created_at": "2026-04-28T12:03:47.306Z"
+    },
+    {
+      "id": 1782043434241,
+      "product_id": 26,
+      "user_name": "Tanvir H",
+      "rating": 4,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-04-28T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428294,
+      "product_id": 26,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-06-19T12:03:47.306Z"
+    },
+    {
+      "id": 1782043430203,
+      "product_id": 26,
+      "user_name": "Samiul B",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-04-11T12:03:47.306Z"
+    },
+    {
+      "id": 1782043431089,
+      "product_id": 27,
+      "user_name": "Tanvir H",
+      "rating": 4,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-04-14T12:03:47.306Z"
+    },
+    {
+      "id": 1782043433262,
+      "product_id": 27,
+      "user_name": "Arafat Rahman",
+      "rating": 4,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-05-18T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428807,
+      "product_id": 28,
+      "user_name": "Arafat Rahman",
+      "rating": 4,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-03-24T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428116,
+      "product_id": 28,
+      "user_name": "Sadia Islam",
+      "rating": 4,
+      "comment": "অরিজিনাল প্রোডাক্ট দেওয়ার জন্য ধন্যবাদ লেগ্যাসি വാচেসকে।",
+      "created_at": "2026-06-13T12:03:47.306Z"
+    },
+    {
+      "id": 1782043435362,
+      "product_id": 29,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-04-12T12:03:47.306Z"
+    },
+    {
+      "id": 1782043435327,
+      "product_id": 30,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "অরিজিনাল প্রোডাক্ট দেওয়ার জন্য ধন্যবাদ লেগ্যাসি വാচেসকে।",
+      "created_at": "2026-06-09T12:03:47.306Z"
+    },
+    {
+      "id": 1782043430093,
+      "product_id": 30,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-06-11T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428530,
+      "product_id": 31,
+      "user_name": "Sadia Islam",
+      "rating": 4,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-05-25T12:03:47.306Z"
+    },
+    {
+      "id": 1782043431016,
+      "product_id": 31,
+      "user_name": "Tahmina Akter",
+      "rating": 5,
+      "comment": "অরিজিনাল প্রোডাক্ট দেওয়ার জন্য ধন্যবাদ লেগ্যাসি വാচেসকে।",
+      "created_at": "2026-04-14T12:03:47.306Z"
+    },
+    {
+      "id": 1782043429509,
+      "product_id": 32,
+      "user_name": "Tahmina Akter",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-05-27T12:03:47.306Z"
+    },
+    {
+      "id": 1782043433343,
+      "product_id": 34,
+      "user_name": "Samiul B",
+      "rating": 4,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-06-01T12:03:47.306Z"
+    },
+    {
+      "id": 1782043432721,
+      "product_id": 34,
+      "user_name": "Samiul B",
+      "rating": 4,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-05-04T12:03:47.306Z"
+    },
+    {
+      "id": 1782043437250,
+      "product_id": 34,
+      "user_name": "Tanvir H",
+      "rating": 5,
+      "comment": "অরিজিনাল প্রোডাক্ট দেওয়ার জন্য ধন্যবাদ লেগ্যাসি വാচেসকে।",
+      "created_at": "2026-05-16T12:03:47.306Z"
+    },
+    {
+      "id": 1782043431553,
+      "product_id": 35,
+      "user_name": "Tanvir H",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-05-28T12:03:47.306Z"
+    },
+    {
+      "id": 1782043434288,
+      "product_id": 35,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "অরিজিনাল প্রোডাক্ট দেওয়ার জন্য ধন্যবাদ লেগ্যাসি വാচেসকে।",
+      "created_at": "2026-03-26T12:03:47.306Z"
+    },
+    {
+      "id": 1782043433314,
+      "product_id": 35,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-05-02T12:03:47.306Z"
+    },
+    {
+      "id": 1782043433833,
+      "product_id": 36,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-04-02T12:03:47.306Z"
+    },
+    {
+      "id": 1782043430254,
+      "product_id": 38,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-04-21T12:03:47.306Z"
+    },
+    {
+      "id": 1782043429272,
+      "product_id": 39,
+      "user_name": "Sadia Islam",
+      "rating": 4,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-03-28T12:03:47.306Z"
+    },
+    {
+      "id": 1782043434796,
+      "product_id": 39,
+      "user_name": "Samiul B",
+      "rating": 4,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-04-06T12:03:47.306Z"
+    },
+    {
+      "id": 1782043436403,
+      "product_id": 40,
+      "user_name": "Tanvir H",
+      "rating": 5,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-03-26T12:03:47.306Z"
+    },
+    {
+      "id": 1782043435856,
+      "product_id": 40,
+      "user_name": "Samiul B",
+      "rating": 5,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-05-24T12:03:47.306Z"
+    },
+    {
+      "id": 1782043430163,
+      "product_id": 41,
+      "user_name": "Mehedi Hasan",
+      "rating": 5,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-05-21T12:03:47.306Z"
+    },
+    {
+      "id": 1782043429641,
+      "product_id": 41,
+      "user_name": "Tahmina Akter",
+      "rating": 4,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-03-27T12:03:47.306Z"
+    },
+    {
+      "id": 1782043437020,
+      "product_id": 41,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-05-12T12:03:47.306Z"
+    },
+    {
+      "id": 1782043432972,
+      "product_id": 42,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-05-29T12:03:47.306Z"
+    },
+    {
+      "id": 1782043432116,
+      "product_id": 42,
+      "user_name": "Tahmina Akter",
+      "rating": 5,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-05-03T12:03:47.306Z"
+    },
+    {
+      "id": 1782043437071,
+      "product_id": 43,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-04-01T12:03:47.306Z"
+    },
+    {
+      "id": 1782043433056,
+      "product_id": 43,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-06-06T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428886,
+      "product_id": 44,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-05-01T12:03:47.306Z"
+    },
+    {
+      "id": 1782043429391,
+      "product_id": 45,
+      "user_name": "Mehedi Hasan",
+      "rating": 4,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-06-17T12:03:47.306Z"
+    },
+    {
+      "id": 1782043435707,
+      "product_id": 45,
+      "user_name": "Samiul B",
+      "rating": 4,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-06-08T12:03:47.306Z"
+    },
+    {
+      "id": 1782043433536,
+      "product_id": 46,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-04-24T12:03:47.306Z"
+    },
+    {
+      "id": 1782043434044,
+      "product_id": 46,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-05-13T12:03:47.306Z"
+    },
+    {
+      "id": 1782043429997,
+      "product_id": 47,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-03-24T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428830,
+      "product_id": 47,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-04-27T12:03:47.306Z"
+    },
+    {
+      "id": 1782043432358,
+      "product_id": 48,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-04-15T12:03:47.306Z"
+    },
+    {
+      "id": 1782043427374,
+      "product_id": 48,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-04-30T12:03:47.306Z"
+    },
+    {
+      "id": 1782043433522,
+      "product_id": 48,
+      "user_name": "Mehedi Hasan",
+      "rating": 5,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-05-12T12:03:47.306Z"
+    },
+    {
+      "id": 1782043430842,
+      "product_id": 49,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-04-20T12:03:47.306Z"
+    },
+    {
+      "id": 1782043436750,
+      "product_id": 49,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-04-07T12:03:47.306Z"
+    },
+    {
+      "id": 1782043433763,
+      "product_id": 50,
+      "user_name": "Tahmina Akter",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-03-30T12:03:47.306Z"
+    },
+    {
+      "id": 1782043429162,
+      "product_id": 50,
+      "user_name": "Mehedi Hasan",
+      "rating": 5,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-05-26T12:03:47.306Z"
+    },
+    {
+      "id": 1782043430127,
+      "product_id": 51,
+      "user_name": "Tahmina Akter",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-04-01T12:03:47.306Z"
+    },
+    {
+      "id": 1782043435256,
+      "product_id": 51,
+      "user_name": "Mehedi Hasan",
+      "rating": 5,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-05-02T12:03:47.306Z"
+    },
+    {
+      "id": 1782043434194,
+      "product_id": 52,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-04-01T12:03:47.306Z"
+    },
+    {
+      "id": 1782043434444,
+      "product_id": 52,
+      "user_name": "Tanvir H",
+      "rating": 5,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-05-25T12:03:47.306Z"
+    },
+    {
+      "id": 1782043430950,
+      "product_id": 52,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-05-16T12:03:47.306Z"
+    },
+    {
+      "id": 1782043431071,
+      "product_id": 53,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "অরিজিনাল প্রোডাক্ট দেওয়ার জন্য ধন্যবাদ লেগ্যাসি വാচেসকে।",
+      "created_at": "2026-05-27T12:03:47.306Z"
+    },
+    {
+      "id": 1782043427822,
+      "product_id": 53,
+      "user_name": "Mehedi Hasan",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-04-01T12:03:47.306Z"
+    },
+    {
+      "id": 1782043430265,
+      "product_id": 53,
+      "user_name": "Mehedi Hasan",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-04-27T12:03:47.306Z"
+    },
+    {
+      "id": 1782043434366,
+      "product_id": 54,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "প্যাকেজিংটা অনেক সুন্দর ছিল। ঘড়িটা ঠিক যেমন ছবিতে দেখেছি তেমনই পেয়েছি।",
+      "created_at": "2026-05-17T12:03:47.306Z"
+    },
+    {
+      "id": 1782043430772,
+      "product_id": 54,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-06-04T12:03:47.306Z"
+    },
+    {
+      "id": 1782043432105,
+      "product_id": 55,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-05-17T12:03:47.306Z"
+    },
+    {
+      "id": 1782043435212,
+      "product_id": 55,
+      "user_name": "Mehedi Hasan",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-06-16T12:03:47.306Z"
+    },
+    {
+      "id": 1782043436539,
+      "product_id": 56,
+      "user_name": "Tanvir H",
+      "rating": 5,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-04-12T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428844,
+      "product_id": 57,
+      "user_name": "Samiul B",
+      "rating": 5,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-04-18T12:03:47.306Z"
+    },
+    {
+      "id": 1782043433246,
+      "product_id": 58,
+      "user_name": "Samiul B",
+      "rating": 5,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-06-08T12:03:47.306Z"
+    },
+    {
+      "id": 1782043435747,
+      "product_id": 58,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-03-31T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428510,
+      "product_id": 59,
+      "user_name": "Nusrat Jahan",
+      "rating": 5,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-04-15T12:03:47.306Z"
+    },
+    {
+      "id": 1782043427395,
+      "product_id": 59,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-03-24T12:03:47.306Z"
+    },
+    {
+      "id": 1782043431844,
+      "product_id": 60,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-05-04T12:03:47.306Z"
+    },
+    {
+      "id": 1782043429416,
+      "product_id": 61,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "অরিজিনাল প্রোডাক্ট দেওয়ার জন্য ধন্যবাদ লেগ্যাসি വാচেসকে।",
+      "created_at": "2026-05-05T12:03:47.306Z"
+    },
+    {
+      "id": 1782043434171,
+      "product_id": 62,
+      "user_name": "Samiul B",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-05-20T12:03:47.306Z"
+    },
+    {
+      "id": 1782043431446,
+      "product_id": 62,
+      "user_name": "Samiul B",
+      "rating": 4,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-06-19T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428205,
+      "product_id": 63,
+      "user_name": "Tahmina Akter",
+      "rating": 5,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-05-24T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428078,
+      "product_id": 64,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "বেস্ট বাজেট ওয়াচ। আমি পুরোপুরি সন্তুষ্ট।",
+      "created_at": "2026-04-29T12:03:47.306Z"
+    },
+    {
+      "id": 1782043436766,
+      "product_id": 65,
+      "user_name": "Samiul B",
+      "rating": 5,
+      "comment": "অসাধারণ একটি ঘড়ি! হাতে দিলে অনেক প্রিমিয়াম ফিল দেয়।",
+      "created_at": "2026-06-06T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428485,
+      "product_id": 65,
+      "user_name": "Mehedi Hasan",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-04-18T12:03:47.306Z"
+    },
+    {
+      "id": 1782043432168,
+      "product_id": 66,
+      "user_name": "Sadia Islam",
+      "rating": 5,
+      "comment": "সার্ভিস এবং ব্যবহার খুব ভালো লেগেছে। ঘড়িটাও জোস!",
+      "created_at": "2026-04-12T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428127,
+      "product_id": 67,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-05-09T12:03:47.306Z"
+    },
+    {
+      "id": 1782043428862,
+      "product_id": 67,
+      "user_name": "Rafi Ahmed",
+      "rating": 5,
+      "comment": "খুবই ক্লাসি ডিজাইন। সবার পছন্দ হয়েছে।",
+      "created_at": "2026-05-30T12:03:47.306Z"
+    },
+    {
+      "id": 1782043430697,
+      "product_id": 67,
+      "user_name": "Mehedi Hasan",
+      "rating": 4,
+      "comment": "অরিজিনাল প্রোডাক্ট দেওয়ার জন্য ধন্যবাদ লেগ্যাসি വാচেসকে।",
+      "created_at": "2026-04-21T12:03:47.306Z"
+    },
+    {
+      "id": 1782043435895,
+      "product_id": 68,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-03-25T12:03:47.306Z"
+    },
+    {
+      "id": 1782043429371,
+      "product_id": 68,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "এতো কম দামে এতো ভালো ঘড়ি পাবো আশা করিনি। 10/10",
+      "created_at": "2026-05-26T12:03:47.306Z"
+    },
+    {
+      "id": 1782043435702,
+      "product_id": 68,
+      "user_name": "Arafat Rahman",
+      "rating": 5,
+      "comment": "ডেলিভারি খুব ফাস্ট ছিল, ঘড়ির কোয়ালিটি দাম অনুযায়ী সেরা।",
+      "created_at": "2026-04-19T12:03:47.306Z"
+    }
+  ]
+}
